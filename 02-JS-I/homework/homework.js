@@ -4,7 +4,7 @@
 var nuevaString = "daniel";
 
 // Crea una variable numérica, puede ser cualquier número:
-var nuevoNum = 13;
+var nuevoNum = 14;
 
 // Crea una variable booleana:
 var nuevoBool = true;
